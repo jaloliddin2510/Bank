@@ -1,0 +1,8 @@
+<!-- android/app/src/main/res/drawable/launch_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:drawable="@color/white" />  &lt;!&ndash; fon rangini o'zgartiring &ndash;&gt;-->
+    <!-- Agar rasm kerak bo'lmasa, quyidagi itemni olib tashlang -->
+    <!-- <item>
+        <bitmap android:gravity="center" android:src="@drawable/flutter_logo" />
+    </item> -->
+</layer-list>
